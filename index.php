@@ -1,6 +1,7 @@
 <?php
 
-    echo "Olá Mundo!";
-    echo "Sou Estudante PHP!";
+    echo "Olá mundo!";
+    echo "Sou estudante PHP!";
+    echo "Desejo aempre aprender!";
 
 ?>
